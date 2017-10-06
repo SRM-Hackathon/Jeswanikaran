@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/code fun do_team Kin_Hack/code fun do_team Kin_Hack/code fun do/dj/Assets/AvatarsDemo/KinectAvatarsDemo.unity
+  isLoaded: 1
+  isActive: 1
